@@ -293,11 +293,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - Desenvolvedores do auditd
 - Contribuidores do projeto
 
-## 📞 Suporte
-
-- **Issues**: [GitHub Issues](https://github.com/Thiago251/matrix-audit/issues)
-- **Documentação**: [Wiki do Projeto](https://github.com/Thiago251/matrix-audit/wiki)
-
 
 ---
 
@@ -305,6 +300,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **"Não há colher"** - Neo
 
-*Matrix Audit v2.0 - Sistema de Auditoria Linux*
+*Matrix Audit v3.0 - Sistema de Auditoria Linux*
 
 </div>
