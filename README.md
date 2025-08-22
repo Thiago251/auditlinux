@@ -82,7 +82,7 @@ sudo yum install audit audit-libs           # CentOS/RHEL
 ### Método 1: Download Direto
 \`\`\`bash
 # Download do script
-wget https://raw.githubusercontent.com/seu-usuario/matrix-audit/main/matrix_audit_enhanced.sh
+wget https://raw.githubusercontent.com/Thiago251/matrix-audit/main/matrix_audit_enhanced.sh
 
 # Tornar executável
 chmod +x matrix_audit_enhanced.sh
@@ -94,7 +94,7 @@ sudo ./matrix_audit_enhanced.sh
 ### Método 2: Clone do Repositório
 \`\`\`bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/matrix-audit.git
+git clone https://github.com/Thiago251/matrix-audit.git
 cd matrix-audit
 
 # Executar
@@ -280,7 +280,7 @@ sudo auditctl -l
 - Siga as boas práticas de segurança
 
 ### Reportar Bugs
-Use as [Issues do GitHub](https://github.com/seu-usuario/matrix-audit/issues) para reportar bugs ou sugerir melhorias.
+Use as [Issues do GitHub](https://github.com/Thiago251/matrix-audit/issues) para reportar bugs ou sugerir melhorias.
 
 ## 📄 Licença
 
@@ -295,9 +295,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/matrix-audit/issues)
-- **Documentação**: [Wiki do Projeto](https://github.com/seu-usuario/matrix-audit/wiki)
-- **Email**: seu-email@exemplo.com
+- **Issues**: [GitHub Issues](https://github.com/Thiago251/matrix-audit/issues)
+- **Documentação**: [Wiki do Projeto](https://github.com/Thiago251/matrix-audit/wiki)
+
 
 ---
 
